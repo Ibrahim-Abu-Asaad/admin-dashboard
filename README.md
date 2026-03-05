@@ -1,3 +1,5 @@
+## Not Complete.
+## Just Exploring Now.
 # Responsive Admin Dashboard
 
 A fully responsive and interactive Admin Dashboard built with **HTML**, **advanced CSS**, and **Vanilla JavaScript** — no frameworks used.
