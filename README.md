@@ -1,5 +1,5 @@
 ## Not Complete.
-### Just Testing My Skills In Using AI Tools In This Small Simple Admin Dashboard Project, It Is Bad For Now, It Will Get Better And I WIll Complete It Later. 
+### Just Testing And Playing Things In This Small Simple Admin Dashboard Project, It Is Bad For Now, It Will Get Better And Fix Things And Create A New Better One.
 # Responsive Admin Dashboard
 
 A fully responsive and interactive Admin Dashboard built with **HTML**, **advanced CSS**, and **Vanilla JavaScript** — no frameworks used.
