@@ -76,5 +76,5 @@ This project demonstrates modern front-end techniques including CSS Grid/Flexbox
 
 Ibrahim Abu-Assad
 
-* [LinkedIn](https://www.linkedin.com/in/ibrahim-abu-assad-4b636b32b/)
+* [LinkedIn](https://www.linkedin.com/in/ibrahim-abu-asaad-4b636b32b/)
 * [GitHub](https://github.com/Ibrahim-Abu-Assad)
