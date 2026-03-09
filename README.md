@@ -10,7 +10,7 @@ This project demonstrates modern front-end techniques including CSS Grid/Flexbox
 
 ## 🚀 Live Preview
 
-👉 [View Project](https://ibrahim-abu-assad.github.io/admin-dashboard/)
+👉 [View Project](https://ibrahim-abu-asaad.github.io/admin-dashboard/)
 
 ---
 
